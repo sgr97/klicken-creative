@@ -1,4 +1,4 @@
-import HomePage from './pages/Home.vue';
+import HomePage from './components/Home.vue';
 
 const routes = [
     {
