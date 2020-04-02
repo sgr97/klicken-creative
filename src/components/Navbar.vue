@@ -32,5 +32,6 @@
     .navbar {
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-size: 200%;
+        background: rgb(211, 136, 136);
     }
 </style>
